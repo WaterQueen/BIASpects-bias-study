@@ -19,23 +19,38 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 [∆top](#0)
 
-# WEEK 2: Introducing an example and improving the hypotheses <a name="2"></a>
+# WEEK 2: Expandation and graphical visualization our hypotheses <a name="2"></a>
 
 This week, we've expanded our hypotheses and developed a graphical visualization to make them easier to understand for outsiders. In the following graphics we used the label "CEO" or "not a CEO", the sensitive variable "woman" or "man" and the feature "public school" or "private school".
 
 ## Hypothesis 1:
+No difference between the populations' underlying label distribution -> No bias.
+
 ![Hypothesis 1](images/hypothesis1.png)
 
 ## Hypothesis 2:
+Equal representation of the populations -> No bias. 
+(even if there are differences in the underlying label distribution)
+
 ![Hypothesis 2](images/hypothesis2.png)
 
 ## Hypothesis 3:
+Population overrepresentation -> Bias.
+The sensitivity or specificity for the underrepresented population
+will be worse.
+
 ![Hypothesis 3](images/hypothesis3.png)
 
-### Hypothesis 3.2:
+### Hypothesis 3.1:
+The greater the shift between the populations regarding the
+underlying label distribution, the higher the loss of
+sensitivity/specificity for the underrepresented one.
+
 ![Hypothesis1 3.1](images/hypothesis3.1.png)
 
-### Hypothesis 3.3:
+### Hypothesis 3.2:
+The higher the overrepresentation of one population, the higher
+the bias.
 ![Hypothesis1 3.2](images/hypothesis3.2.png)
 
 [∆top](#0)
