@@ -36,22 +36,24 @@ Equal population representation -> No bias.
 
 ## Hypothesis 3:
 Population overrepresentation -> Bias.
-The sensitivity or specificity for the underrepresented population
-will be worse.
+The sensitivity or specificity for the underrepresented population will be worse.
 
 ![Hypothesis 3](images/hypothesis3.png)
 
 ### Hypothesis 3.1:
-The greater the shift between the populations regarding the
-underlying label distribution, the higher the loss of
-sensitivity/specificity for the underrepresented one.
+The greater the shift between the populations regarding the underlying label distribution, the higher the loss of sensitivity/specificity for the underrepresented one.
 
 ![Hypothesis1 3.1](images/hypothesis3.1.png)
 
 ### Hypothesis 3.2:
-The higher the overrepresentation of one population, the higher
-the bias.
+The higher the overrepresentation of one population, the higher the bias.
 ![Hypothesis1 3.2](images/hypothesis3.2.png)
+
+## Hypothesis 4:
+Exclusion of the sensitive variable will not reduce the bias.
+
+## Hypothesis 5:
+Different classification algorithms are differently vulnerable for bias.
 
 [∆top](#0)
 
