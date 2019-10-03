@@ -21,11 +21,22 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 # WEEK 2: Introducing an example and improving the hypotheses <a name="2"></a>
 
+This week, we've expanded our hypotheses and developed a graphical visualization to make them easier to understand for outsiders. In the following graphics we used the label "CEO" or "not a CEO", the sensitive variable "woman" or "man" and the feature "public school" or "private school".
+
+## Hypothesis 1:
 ![Hypothesis 1](images/hypothesis1.png)
+
+## Hypothesis 2:
 ![Hypothesis 2](images/hypothesis2.png)
+
+## Hypothesis 3:
 ![Hypothesis 3](images/hypothesis3.png)
+
+### Hypothesis 3.2:
 ![Hypothesis1 3.1](images/hypothesis3.1.png)
-![Hypothesis1 3.2](images/hypothesis13.2.png)
+
+### Hypothesis 3.3:
+![Hypothesis1 3.2](images/hypothesis3.2.png)
 
 [∆top](#0)
 
