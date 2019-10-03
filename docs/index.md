@@ -29,8 +29,8 @@ No difference between the populations' underlying label distribution -> No bias.
 ![Hypothesis 1](images/hypothesis1.png)
 
 ## Hypothesis 2:
-Equal representation of the populations -> No bias. 
-(even if there are differences in the underlying label distribution)
+Equal population representation -> No bias. 
+(even if there is a difference regarding the underlying label distribution)
 
 ![Hypothesis 2](images/hypothesis2.png)
 
