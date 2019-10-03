@@ -21,8 +21,11 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 # WEEK 2: Introducing an example and improving the hypotheses <a name="2"></a>
 
-![Hypothesis1](images/hypothesis1.png)
-
+![Hypothesis 1](images/hypothesis1.png)
+![Hypothesis 2](images/hypothesis2.png)
+![Hypothesis 3](images/hypothesis3.png)
+![Hypothesis1 3.1](images/hypothesis3.1.png)
+![Hypothesis1 3.2](images/hypothesis13.2.png)
 
 [∆top](#0)
 
