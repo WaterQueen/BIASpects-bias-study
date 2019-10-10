@@ -40,7 +40,7 @@ Specificity will be measured separately for population1 and population2 on each 
 #### Minor bias (target) variable: Deviation of sensitivity
 Sensitivity will be measured separately for population1 and population2 on each data set (for each experimental group). Deviation of sensitivity will be calculated as follows: Sensitivity of population2 - Sensitivity of population1.
 
-## OUR HYPOTHESIS:
+## OUR HYPOTHESES:
 A bit way out of order, we now will also give you a short overview on the underlying hypotheses that will be tested with the experiment (in some way [we will concretise that in the further process]).
 
 #### Hypothesis 1: 
