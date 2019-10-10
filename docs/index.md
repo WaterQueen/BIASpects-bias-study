@@ -12,7 +12,7 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 [∆top](#0)
 
-# WEEK 1: Defining hypotheses <a name="1"></a>
+# WEEK 1: Experimental setting and first hypotheses <a name="1"></a>
 Here to come: Our first report about the current state of our project. 
 As reported earlier our approach aims to research on biases in decisive machine learning systems in an experimental way. By controlled variation of some potential origins of those biases, we first of all will try to figure out what kind of imbalances as well in the population as in the sample have an impact on the performance of the decision learner. In a second step a variation of methods to control for these biases will be tested. Will it be possible to detect sources of biases and potential tools to avoid or overcome them?
 First of all, we will focus on the bias detection part. We will give you an overview on the planned setting and on the factors that will form our experimental groups. We hope that the overview gives you an understanding of our planned project and are open to all kind of feedback or questions on it.
@@ -20,24 +20,24 @@ First of all, we will focus on the bias detection part. We will give you an over
 ## THE SETTING: 
 In the experiment we will create artificial data sets. Included features will be: a binary group membership feature (population1 or population2), a binary target variable (0 or 1)(which will function as target variable for the classifier) and 1 to (?) features that somehow (?, we are still figuring this part out) correlate with the target variable (without any moderation through the group membership). In the actual version of factors, the experiment will have 4x4x4 different data sets (experimental groups). On those data sets binary classifiers (probably a SVM and a simple MLP) will be learned. Their performance will be compared on all experimental groups based on their specificity and sensitivity variations between population1 and population2.
 
--VARIATION FACTOR 1: POPULATION REPRESENTATION IN THE SAMPLE-
+### VARIATION FACTOR 1: POPULATION REPRESENTATION IN THE SAMPLE
 We will vary how many percent of the data set belongs to population1.
 Planned Factor Levels (4): 50%, 65%, 80%, 95%
 
--VARIATION FACTOR 2: PROBABILITY OF TARGET IN POPULATION1-
+### VARIATION FACTOR 2: PROBABILITY OF TARGET IN POPULATION1
 The target variable will be sampled from a binomial distribution [Bin(1,p)]. F2 represents "p1" in the sense that the target variable is Bin(1,p1) for population1.
 Planned Factor Levels (4): 0.5, 0.65, 0.8, 0.95
 [Remark: This factor represents how much information about the target value the knowledge of "the instance belongs to population1" holds.]
 
--VARIATION FACTOR 3: SHIFT OF THE TARGET VARIABLE DISTRIBUTIONS-
+### VARIATION FACTOR 3: SHIFT OF THE TARGET VARIABLE DISTRIBUTIONS
 The target variable for population2 will be sampled from Bin(1,p2). F3 represents "p2" and will be calculated depending on "p1". Calculation: p2=F3*p1
 Planned Factor Levels (4): 1, 0.75, 0.5, 0.25
 [Remark: This factor either represent that there is no difference in the underlying distributions or a small to big difference.]
 
--MAJOR BIAS (TARGET) VARIABLE: DEVIATION OF SPECIFICITY-
+### MAJOR BIAS (TARGET) VARIABLE: DEVIATION OF SPECIFICITY
 Specificity will be measured separately for population1 and population2 on each data set (for each experimental group). Deviation of specificity will be calculated as follows: Specificity of population2 - Specificity of population1.
 
--MINOR BIAS (TARGET) VARIABLE: DEVIATION OF SENSITIVITY-
+### MINOR BIAS (TARGET) VARIABLE: DEVIATION OF SENSITIVITY
 Sensitivity will be measured separately for population1 and population2 on each data set (for each experimental group). Deviation of sensitivity will be calculated as follows: Sensitivity of population2 - Sensitivity of population1.
 
 ## OUR HYPOTHESIS:
