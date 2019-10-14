@@ -66,7 +66,7 @@ All the effects described in Hypotheses 3 are moderated by the informativeness o
 
 [∆top](#0)
 
-# WEEK 2: Improvement, expandation and graphical visualization our hypotheses <a name="2"></a>
+# WEEK 2: Improvement, expandation and graphical visualization of our hypotheses <a name="2"></a>
 
 This week, we've expanded our hypotheses and developed a graphical visualization to make them easier to understand for outsiders. In the following graphics we used the label "CEO" or "not a CEO", the sensitive variable "woman" or "man" and the feature "public school" or "private school".
 
