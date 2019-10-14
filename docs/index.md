@@ -6,7 +6,7 @@ We are BIASpects! Three graduate students of the Otto-von-Guericke University in
 ## WHAT are we going to do?
 We are going to do a simulation study where we simulate datasets with different kind of biases and train common classifier on these various datasets.
 
-## WHY are we going to do that?
+## WHY are we gonna that?
 The last semester all of us three attended the workshop Responsible Data Science at the university. We got there basic knowledge and skills to audit a machine learning classification models for fairness and bias. Now we wanna strengthen and expand this knowlegde with the help of our project.
 
 #### If you are still interested in our work you can follow the weekly progress and our outcomes here on this webpage. 
