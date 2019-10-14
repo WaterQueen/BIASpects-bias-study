@@ -1,15 +1,15 @@
 # About the project <a name="0"></a>
 
-Who are we?
+## WHO are we?
 We are BIASpects! Three graduate students of the Otto-von-Guericke University in Magdeburg (Germany). Two of us are majoring in Digital Engineering and one in Statistics. 
 
-What are we going to do?
+## WHAT are we going to do?
 We are going to do a simulation study where we simulate datasets with different kind of biases and train common classifier on these various datasets.
 
-Why are we going to do that?
+## WHY are we going to do that?
 The last semester all of us three attended the workshop Responsible Data Science at the university. We got there basic knowledge and skills to audit a machine learning classification models for fairness and bias. Now we wanna strengthen and expand this knowlegde with the help of our project.
 
-If you are still interested in our work you can follow the weekly progress and our outcomes here on this webpage. 
+#### If you are still interested in our work you can follow the weekly progress and our outcomes here on this webpage. 
 
 [Week 1](#1) | [Week 2](#2) | [Week 3](#3)
 
