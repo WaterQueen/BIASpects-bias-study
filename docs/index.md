@@ -28,11 +28,13 @@ Planned Factor Levels (4): 50%, 65%, 80%, 95%
 #### Variation-Factor 2: Probability of target in the population
 The target variable will be sampled from a binomial distribution [Bin(1,p)]. F2 represents "p1" in the sense that the target variable is Bin(1,p1) for population1.
 Planned Factor Levels (4): 0.5, 0.65, 0.8, 0.95
+
 [Remark: This factor represents how much information about the target value the knowledge of "the instance belongs to population1" holds.]
 
 #### Variation-Factor 3: Shift of the target variable distribution
 The target variable for population2 will be sampled from Bin(1,p2). F3 represents "p2" and will be calculated depending on "p1". Calculation: p2=F3*p1
 Planned Factor Levels (4): 1, 0.75, 0.5, 0.25
+
 [Remark: This factor either represent that there is no difference in the underlying distributions or a small to big difference.]
 
 #### Major bias (target) variable: Deviation of specificity
