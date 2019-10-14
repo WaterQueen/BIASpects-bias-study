@@ -11,7 +11,7 @@ The last semester all of us three attended the workshop Responsible Data Science
 
 #### If you are still interested in our work you can follow the weekly progress and our outcomes here on this webpage. 
 
-[Week 1](#1) | [Week 2](#2) | [Week 3](#3)
+[Week 1](#1) | [Week 2](#2) | [Week 3](#3) | [Week 4](#4)
 
 # WEEK 1: Experimental setting and first hypotheses <a name="1"></a>
 Here to come: Our first report about the current state of our project. 
@@ -64,7 +64,7 @@ All the effects described in Hypotheses 3 are moderated by the informativeness o
 
 [∆top](#0)
 
-# WEEK 2: Expandation and graphical visualization our hypotheses <a name="2"></a>
+# WEEK 2: Improvement, expandation and graphical visualization our hypotheses <a name="2"></a>
 
 This week, we've expanded our hypotheses and developed a graphical visualization to make them easier to understand for outsiders. In the following graphics we used the label "CEO" or "not a CEO", the sensitive variable "woman" or "man" and the feature "public school" or "private school".
 
@@ -102,9 +102,17 @@ Different classification algorithms are differently vulnerable for bias.
 
 [∆top](#0)
 
-# WEEK 3: <a name="3"></a>
+# WEEK 3: Kickoff presentation <a name="3"></a>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
 
 Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
 
 [∆top](#0)
+
+# WEEK 4: The new data set <a name="4"></a>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
+
+Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet,
+
+[∆top](#0)
+
